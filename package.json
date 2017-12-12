@@ -1,0 +1,19 @@
+{
+  "name": "dinner-bot-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dinner-bot-express.js",
+  "engines": {
+        "node": ">=6.9.1"
+    },
+    "scripts": {
+        "start": "node dinner-bot-express.js"
+    },
+  "keywords": [],
+  "author": "purushothamkdr453 <purushothamkdr453@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "express": "^4.16.2"
+  }
+}
